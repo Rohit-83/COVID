@@ -1,2 +1,2 @@
 # COVID
-A basic website showing status of COVID-19 patients in India
+A basic website showing live status of COVID-19 patients in India
